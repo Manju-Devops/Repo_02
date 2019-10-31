@@ -1,3 +1,9 @@
 1st line added to local master repo
 2nd line added to master repo in Central
+<<<<<<< HEAD
 3rd line added to Master Local
+=======
+
+
+5th line added to Branch Local
+>>>>>>> 2a617a51b84e3d2aa162d67fd024d9cc55a3bd0a
